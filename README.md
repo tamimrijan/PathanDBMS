@@ -9,10 +9,10 @@
 - **Group Number**: 03
 
 ### Group Members
-| No. | Name                    | ID          |
-| --- | ----------------------- | ----------- |
-| 01  | Tamim Ahmed Rijan        | 2121833642  |
-| 02  | Syeda Farzana Sultana    | 2122409642  |
+| No. | Name                    |
+| --- | ----------------------- |
+| 01  | Tamim Ahmed Rijan        |
+| 02  | Syeda Farzana Sultana    | 
 
 ### Project Objective
 
