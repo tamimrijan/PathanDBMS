@@ -1,15 +1,39 @@
-# Pathao (পাঠান) - Courier Management Service
+# পাঠান (Pathan) - Courier Management System
 ![Logo](https://i.postimg.cc/vBYgpyby/final.png)
 
 ## Project Overview
 
-This project, **Pathao (পাঠান)**, is developed as part of the **CSE311 Database Management Systems (DBMS)** course. It is a comprehensive courier management service that streamlines parcel tracking, delivery, and logistics operations. 
+**পাঠান (Pathan)** is a Courier Management System developed to streamline and automate courier services. This project includes various modules such as user login, admin control, and real-time package tracking, ensuring smooth operations for both users and administrators.
 
-### Features:
-- **Parcel Management**: Create, update, and track parcels.
-- **User Management**: Manage customer and courier personnel details.
-- **Delivery Status**: Track the real-time status of deliveries.
-- **Branch Management**: Handle multiple courier branches and their parcel operations.
+### Group Information
+- **Group Number**: 03
+
+### Group Members
+| No. | Name                    | ID          |
+| --- | ----------------------- | ----------- |
+| 01  | Tamim Ahmed Rijan        | 2121833642  |
+| 02  | Syeda Farzana Sultana    | 2122409642  |
+
+### Project Objective
+
+The **পাঠান (Pathan)** system aims to simplify the courier management process by providing a platform that records customer information, generates tracking IDs, and allows customers and recipients to monitor their packages. It integrates both customer and admin functionalities to ensure efficient service management.
+
+## Features
+
+1. **User and Admin Login**: Secure login system for both customers and administrators.
+2. **Order Placement**: Users can place orders by providing sender and recipient details, along with the package address and phone number.
+3. **Tracking ID Generation**: The system auto-generates a real-time tracking ID for each order.
+4. **Billing and Invoicing**: Calculates rates based on distance, weight, and type of service, then generates an invoice.
+5. **Admin Dashboard**: A full-featured dashboard for admins to update, track, and monitor courier orders.
+6. **Branch Integration**: Connects multiple branches of the company for seamless package routing and management.
+
+## Expected Outcomes
+
+The **পাঠান (Pathan)** system is designed to:
+- **Increase Efficiency**: Streamline the courier process by reducing manual effort and minimizing delays.
+- **Enhance Customer Satisfaction**: Provide live tracking and delivery status updates to customers.
+- **Improve Internal Operations**: Simplify billing, invoicing, and package tracking for service providers.
+- **Scalability**: The system is scalable for use in both domestic and international markets.
 
 ## Technologies Used
 
@@ -19,17 +43,6 @@ This project, **Pathao (পাঠান)**, is developed as part of the **CSE311
 - **Tools**: 
   - ER Diagram and Database Design using **MySQL Workbench** / **dbdiagram.io**
   - Version Control: **Git**
-  
-## Database Structure
-
-The database for the Pathao courier management system consists of the following key tables:
-1. **Users** (Customers, Couriers)
-2. **Parcels**
-3. **Branches**
-4. **Delivery Statuses**
-5. **Transactions**
-
-Each table is designed with appropriate relationships (e.g., one-to-many, many-to-many) to ensure data integrity and optimize performance.
 
 ## Installation Instructions
 
@@ -59,28 +72,10 @@ Each table is designed with appropriate relationships (e.g., one-to-many, many-t
 
 5. Access the application at `http://localhost:8000`.
 
-## Usage
+## Future Enhancements
 
-1. **User Registration/Login**: Customers and couriers can register and log in to the system.
-2. **Create a Parcel**: Customers can create a new parcel entry by providing necessary details.
-3. **Assign Couriers**: Parcels are assigned to couriers based on the location and branch.
-4. **Track Parcel**: Both customers and branch employees can track the delivery status of parcels in real-time.
-
+- **Payment Integration**: Add online payment options.
+- **Advanced Reporting**: Improve internal reporting capabilities.
+- **Mobile App**: Build a mobile app for broader accessibility.
 ## Screenshots
-
 ![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png)
-
-## Future Improvements
-
-- **Payment Integration**: Add payment gateways for online payment processing.
-- **Enhanced Reporting**: Create advanced reporting tools for logistics management.
-- **Mobile App**: Build a mobile version of the courier management system for wider accessibility.
-
-## Contributors
-
-- **Your Name** - Developer & Database Designer
-- (Add other contributors if applicable)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
