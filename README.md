@@ -67,7 +67,7 @@ Each table is designed with appropriate relationships (e.g., one-to-many, many-t
 
 ## Screenshots
 
-(Include some screenshots of your project here to showcase your work)
+![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png)
 
 ## Future Improvements
 
