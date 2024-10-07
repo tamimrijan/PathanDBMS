@@ -78,4 +78,6 @@ The **পাঠান (Pathan)** system is designed to:
 - **Advanced Reporting**: Improve internal reporting capabilities.
 - **Mobile App**: Build a mobile app for broader accessibility.
 ## Screenshots
-![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png) (https://i.postimg.cc/0jjBQncb/Screenshot-1159.png) (https://i.postimg.cc/HnNP7Mh3/Screenshot-1160.png)
+![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png) 
+![App Screenshot](https://i.postimg.cc/0jjBQncb/Screenshot-1159.png) 
+![App Screenshot](https://i.postimg.cc/HnNP7Mh3/Screenshot-1160.png)
