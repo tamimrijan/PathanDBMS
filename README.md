@@ -44,39 +44,13 @@ The **পাঠান (Pathan)** system is designed to:
   - ER Diagram and Database Design using **MySQL Workbench** / **dbdiagram.io**
   - Version Control: **Git**
 
-## Installation Instructions
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/pathao-courier-management.git
-    ```
-
-2. Set up the database:
-    - Import the provided SQL schema file to create the necessary tables.
-    - Configure the database connection in the backend code.
-
-3. Install dependencies (if applicable):
-    ```bash
-    npm install
-    ```
-
-4. Run the application:
-    - For PHP:
-      ```bash
-      php -S localhost:8000
-      ```
-    - For Node.js:
-      ```bash
-      node app.js
-      ```
-
-5. Access the application at `http://localhost:8000`.
-
 ## Future Enhancements
 
 - **Payment Integration**: Add online payment options.
 - **Advanced Reporting**: Improve internal reporting capabilities.
 - **Mobile App**: Build a mobile app for broader accessibility.
+
+  
 ## Screenshots
 ![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png) 
 ![App Screenshot](https://i.postimg.cc/0jjBQncb/Screenshot-1159.png) 
