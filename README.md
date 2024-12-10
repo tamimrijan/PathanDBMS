@@ -55,3 +55,7 @@ The **পাঠান (Pathan)** system is designed to:
 ![App Screenshot](https://i.postimg.cc/Wzjv9pvm/Screenshot-1158.png) 
 ![App Screenshot](https://i.postimg.cc/0jjBQncb/Screenshot-1159.png) 
 ![App Screenshot](https://i.postimg.cc/HnNP7Mh3/Screenshot-1160.png)
+![App Screenshot](https://i.postimg.cc/0yT0mby8/Screenshot-1252.png)
+![App Screenshot](https://i.postimg.cc/HnkwHMBt/Screenshot-1253.png)
+![App Screenshot](https://i.postimg.cc/8PsR0hFp/Screenshot-1254.png)
+![App Screenshot](https://i.postimg.cc/x1zK0nyB/Screenshot-1255.png)
