@@ -1,0 +1,115 @@
+[03-Dec-2024 08:48:18 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:18 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:19 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:19 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:31 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:31 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:57 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:57 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:48:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:04 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:04 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:08 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:08 UTC] PHP Warning:  require(/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pathanbd/public_html/index.php on line 7
+[03-Dec-2024 08:49:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pathanbd/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pathanbd/public_html/index.php on line 7
+[04-Dec-2024 05:36:43 UTC] PHP Warning:  Undefined array key "gid" in /home/pathanbd/public_html/reset.php on line 5
